@@ -13,4 +13,16 @@ It helps identify problem-prone zones in a city (tested on *Jadhav* region) to s
 
 ## 🧠 Tech Stack
 - **Python**  
-- **Fol**
+- **Folium** (for map visualization)  
+- **JSON** (for data input)  
+- **Jupyter Notebook / VS Code** (for development)
+
+## 📂 Project Structure
+
+## ⚙️ How to Run the Project
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/Civic-Issue-Heatmap-Analysis.git
+   cd Civic-Issue-Heatmap-Analysis
+pip install folium
+python heatmap.py
